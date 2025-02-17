@@ -58,7 +58,7 @@ This repository is organized based on the course sections and projects:
 ## 🤝 **Connect with Me**
 If you're interested in web development or want to collaborate, feel free to connect:
 - 🔗 [GitHub Profile](https://github.com/karimtz999)  
-- 📧 Email: your-email@example.com  
+- 📧 Email: farkarim36@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
 
 ---
