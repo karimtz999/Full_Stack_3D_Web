@@ -31,11 +31,6 @@ After completing this course, I have gained hands-on experience in:
 ✅ **Managing databases & performing CRUD operations**  
 ✅ **Deploying web applications** to production  
 
-## 📺 **Course Introduction**
-[![Watch the video](https://img.youtube.com/vi/G10vMyRj8Aw/maxresdefault.jpg)](https://www.youtube.com/watch?v=G10vMyRj8Aw)
-
-Click the image above to watch an introduction to the course!  
-
 ## 📂 **Repository Structure**
 This repository is organized based on the course sections and projects:
 
@@ -59,7 +54,7 @@ This repository is organized based on the course sections and projects:
 If you're interested in web development or want to collaborate, feel free to connect:
 - 🔗 [GitHub Profile](https://github.com/karimtz999)  
 - 📧 Email: farkarim36@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdelkarim-elfar-b89a9a275/)  
 
 ---
 
