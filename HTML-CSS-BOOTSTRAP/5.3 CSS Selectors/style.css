@@ -1,0 +1,45 @@
+ol {
+  margin-left: -40px;
+  margin-top: -20px;
+  list-style-position: inside;
+}
+
+/* Write your CSS below, don't change the rules above. */
+* {
+  text-align: center;
+}
+
+.note {
+  font-size: 20px;
+}
+
+p {
+  color: red;
+}
+
+.note[value="2"] {
+  color: rgba(42, 182, 14, 0.929);
+}
+
+.note[id="id-selector-demo"] {
+  color: rgba(42, 14, 182, 0.929);
+}
+
+.note[value="4"] {
+  color: rgba(157, 182, 14, 0.929);
+}
+
+
+.note[value="5"] {
+  color: rgba(182, 14, 42, 0.929);
+}
+
+h1 {
+  color: rgb(32, 32, 134);
+  font-family: 'Gill Sans', sans-serif;
+}
+
+h2 {
+  color: rgb(32, 32, 134);
+  font-family: 'Gill Sans', sans-serif;
+}
